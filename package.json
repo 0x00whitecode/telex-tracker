@@ -1,5 +1,5 @@
 {
-    "name": "telex-tracker",
+    "name": "telex-amp",
     "version": "1.0.1",
     "description": "Lightweight React Native tracking library for performance and error logging with Telex Webhooks",
     "main": "dist/index.js",
@@ -25,6 +25,6 @@
         "React-Native",
         "Telex"
     ],
-    "author": "Your Name",
+    "author": "white_rust",
     "license": "MIT"
 }

@@ -14,6 +14,10 @@
     "devDependencies": {
       "typescript": "^5.3.0"
     },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/0x00whitecode/telex-tracker.git"
+    },
     "keywords": ["tracking", "error-handling", "performance", "React-Native", "Telex"],
     "author": "Your Name",
     "license": "MIT"

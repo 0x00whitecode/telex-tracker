@@ -1,8 +1,8 @@
-Here's a detailed **README.md** for your **Telex Tracker** NPM package:  
+
 
 ---
 
-# **Telex Tracker** 📡  
+# **react native APM - using Telex ** 📡  
 ### **Performance & Error Tracking for React Native with Telex Webhook**  
 
 🚀 **Telex Tracker** is a lightweight tracking library for **React Native**, enabling **performance monitoring** and **error tracking** via **Telex Webhooks**. This package dynamically allows users to insert their webhook during installation and update it anytime!  
@@ -90,10 +90,10 @@ setTelexConfig({ webhook_url: "https://new-webhook-url.com" });
 
 ## **🖥️ Screenshots**  
 
-### **Getting Telex Webhook from Telegram**  
+### **Getting Telex Webhook *  
 To obtain your **Telex webhook**, follow these steps:  
-1. Open **Telegram**  
-2. Search for **Telex Bot**  
+1. Open **telex**  
+2. Search for **Telex channel and create a channel **  
 3. Type `/getWebhook`  
 4. Copy the generated **webhook URL** and use it in `setTelexConfig()`
 
@@ -118,4 +118,4 @@ This package is licensed under the **MIT License**.
 ## **💬 Support**
 For questions, issues, or contributions, feel free to open an **issue** or submit a **pull request** on GitHub. 🚀  
 
-🔗 **GitHub Repo:** [Telex Tracker](https://github.com/yourusername/telex-tracker)
+🔗 **GitHub Repo:** [Telex Tracker](https://github.com/0x00whitecode/telex-tracker)

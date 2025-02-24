@@ -1,25 +1,30 @@
 {
     "name": "telex-tracker",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Lightweight React Native tracking library for performance and error logging with Telex Webhooks",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
-      "build": "tsc",
-      "postinstall": "node postinstall.js"
+        "build": "tsc",
+        "postinstall": "node postinstall.js"
     },
     "dependencies": {
-      "react-native-async-storage": "^1.17.10"
+        "react-native-async-storage": "^1.17.10"
     },
     "devDependencies": {
-      "typescript": "^5.3.0"
+        "typescript": "^5.3.0"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/0x00whitecode/telex-tracker.git"
+        "type": "git",
+        "url": "https://github.com/0x00whitecode/telex-tracker.git"
     },
-    "keywords": ["tracking", "error-handling", "performance", "React-Native", "Telex"],
+    "keywords": [
+        "tracking",
+        "error-handling",
+        "performance",
+        "React-Native",
+        "Telex"
+    ],
     "author": "Your Name",
     "license": "MIT"
-  }
-  
+}
